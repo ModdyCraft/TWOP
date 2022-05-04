@@ -1,0 +1,9 @@
+name: TWOP
+description: This is just an example plugin
+author: ModdyCraft
+main: net.moddycraft.twop.Main
+version: 0.0.1
+url: https://github.com/2lstudios-mc/bukkit-boilerplate
+commands:
+  tp_w:
+    description: Es para telportarse
